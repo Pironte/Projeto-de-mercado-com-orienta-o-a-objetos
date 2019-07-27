@@ -1,5 +1,1 @@
--[] organização das tarefas 
--[] Leitura da documentação e identificação das entidades
--[] criação de classes, classes abstratas e métodos abstratos
--[] atribuição de métodos
--[] Criação de sistema simples para usuários.
+
